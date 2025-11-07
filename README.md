@@ -70,3 +70,20 @@ The dataset contains detailed transaction records with the following key feature
 - Total revenue and average transaction size by branch.  
 - Product-level performance using sales volume and total revenue.  
 - Hourly and daily sales
+
+### 📈 3. Key Findings (Example Highlights)
+- **Branch A** generated the highest total sales revenue.  
+- **Cappuccino** and **Latte** are consistently top performers.  
+- Peak sales occur between **8–10 AM** and around **3 PM**, aligning with morning and afternoon coffee breaks.  
+- Weekends show slightly higher average bills per transaction.  
+
+---
+
+## 🧠 Potential Extensions
+
+- **Forecasting:** Build a time series model (e.g., Prophet or ARIMA) to predict future daily sales.  
+- **Customer segmentation:** Cluster transactions by purchase behavior.  
+- **Dashboard:** Develop an interactive Streamlit or Power BI dashboard to visualize real-time trends.  
+
+---
+
