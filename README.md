@@ -9,7 +9,7 @@ Analyze coffee shop sales to uncover insights into customer behavior, best-selli
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 This project explores transactional sales data from a coffee shop to uncover key insights about customer behavior, product performance, and business trends. The analysis focuses on identifying sales patterns, top-performing branches and products, and time-based demand trends.  
 
@@ -21,7 +21,7 @@ The project demonstrates practical data analytics skills, including:
 
 ---
 
-## 🧩 Dataset Description
+## Dataset Description
 
 The dataset contains detailed transaction records with the following key features:
 
@@ -41,7 +41,7 @@ The dataset contains detailed transaction records with the following key feature
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. **Understand sales performance**
    - Which branch generates the most revenue?
@@ -59,7 +59,7 @@ The dataset contains detailed transaction records with the following key feature
 
 ---
 
-## 📊 Analysis & Insights
+## Analysis & Insights
 
 ### 🧹 1. Data Cleaning
 - Converted date and time columns to proper datetime formats.  
