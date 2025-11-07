@@ -61,17 +61,17 @@ The dataset contains detailed transaction records with the following key feature
 
 ## Analysis & Insights
 
-### 🧹 1. Data Cleaning
+### 1. Data Cleaning
 - Converted date and time columns to proper datetime formats.  
 - Checked for missing or inconsistent entries.  
 - Created new features: `DayOfWeek`, `Hour`, and `Month`.
 
-### 🔍 2. Exploratory Data Analysis (EDA)
+### 2. Exploratory Data Analysis (EDA)
 - Total revenue and average transaction size by branch.  
 - Product-level performance using sales volume and total revenue.  
 - Hourly and daily sales
 
-### 📈 3. Key Findings (Example Highlights)
+### 3. Key Findings (Example Highlights)
 - **Branch A** generated the highest total sales revenue.  
 - **Cappuccino** and **Latte** are consistently top performers.  
 - Peak sales occur between **8–10 AM** and around **3 PM**, aligning with morning and afternoon coffee breaks.  
@@ -79,7 +79,7 @@ The dataset contains detailed transaction records with the following key feature
 
 ---
 
-## 🧠 Potential Extensions
+## Potential Extensions
 
 - **Forecasting:** Build a time series model (e.g., Prophet or ARIMA) to predict future daily sales.  
 - **Customer segmentation:** Cluster transactions by purchase behavior.  
